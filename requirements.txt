@@ -1,0 +1,5 @@
+django==2.1.11
+django-compat==1.0.15
+django-background-tasks==1.2.5
+six==1.14.0
+
