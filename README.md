@@ -27,3 +27,5 @@ After the background task structure is set up as in this sample project, the fol
 python manage.py process_tasks
 ```
 In localhost, this command can be run manually in the background, but when you want to deploy the project, crontab, etc. should be used.
+
+About more, here is the documentation: https://django-background-tasks.readthedocs.io/en/latest/
